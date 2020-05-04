@@ -1,6 +1,6 @@
 # Análisis Exploratorio de los Microdatos del Censo 2017
 
-Por [**Eduardo Graells-Garrido** (@carnby)](https://twitter.com/carnby), <egraells@udd.cl>
+Por [**Eduardo Graells-Garrido** (@carnby)](https://twitter.com/carnby), <eduardo.graells@bsc.es>
 
 Este repositorio contiene dos notebooks de [Project Jupyter](https://jupyter.org/), utilizando el lenguaje de programación Python, para responder preguntas y hacer análisis exploratorio del Censo 2017 de Chile.
 
@@ -17,3 +17,7 @@ Los datos se han obtenido de las siguientes fuentes (y están incluidos en este 
 Y éste es uno de los resultados del segundo notebook, correspondiente a la distribución temporal del año de llegada al país de les inmigrantes, dependiendo de su lugar de origen:
 
 ![](migrant_matrix.png)
+
+También incluye un ejemplo de como hacer un mapa de coropletas bivariado:
+
+![](bivariate_choro.png)
